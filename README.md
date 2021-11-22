@@ -1,7 +1,7 @@
 # Projekta nosaukums
 Spēle "Roulette"
 ## Apraksts
-Vienkārša spēle, kur spēlētājam ir iedota naudas summa, ar kuru viņš var spēlēt, to iegūt, un pazaudēt.
+Vienkārša spēle, kur spēlētājam ir iedota naudas summa, ar kuru viņš var spēlēt, spēlētajs var likt likmi uz trim dažādām krāsām - uz melnu, sarkanu vai zaļu, un atgūt atpakaļ savus punktus.
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
